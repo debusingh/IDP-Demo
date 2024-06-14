@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Popular IDP Tools
+  name: Popular-IDP-Tools
   description: |
     Link of popular IDP Tools.
   links:
